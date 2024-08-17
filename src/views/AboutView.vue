@@ -6,7 +6,7 @@
             .Net technology. With a keen
             eye for detail and a commitment to excellence, I create captivating and user-friendly web applications. Let's
             build something amazing together!</p>
-        <p class="text-center text-blue-600">#Vue #WebApplication</p>
+        <p class="text-center text-blue-600">#Laravel #WebApplication</p>
     </div>
 </template>
 <script setup>
